@@ -1,0 +1,9 @@
+﻿{
+  "OutputDirectory": "%AssemblyDirectory%/../../JSIL.Libraries/Generated/",
+  "IncludeDependencies": false,
+  "SkipManifestCreation": true,
+  "FilenameReplaceRegexes": {
+    ", Version(.*)$": ""
+  },
+  "MonoFixConfig": { }
+}

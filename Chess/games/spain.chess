@@ -1,0 +1,13 @@
+version=1
+moves=6
+1G to 3F
+7E to 5E
+2E to 4E
+8B to 6C
+1F to 5B
+7A to 6A
+ab
+Color: White, Length: 00:00:21.7541752, Moves tested: 32647
+
+minmax
+Color: White, Length: 00:00:05.8825882, Moves tested: 8902
